@@ -1,0 +1,8 @@
+fastapi~=0.112.0
+uvicorn
+requests~=2.32.3
+sqlalchemy~=2.0.32
+jinja2
+matplotlib~=3.7.5
+
+python-dotenv~=1.0.1
