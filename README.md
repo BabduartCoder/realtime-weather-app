@@ -45,9 +45,9 @@ realtime-weather-app/
 ## Setup and Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/weather-monitoring-system.git
 ```bash
-cd weather-monitoring-system
+git clone https://github.com/Omkar1279/realtime-weather-app.git
+cd realtime-weather-app
 ```
 
 2. Create and activate a virtual environment:
